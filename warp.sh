@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 #
-# https://github.com/P3TERX/warp.sh
+# https://github.com/MangTianYa/warp.sh
 # Description: Cloudflare WARP Installer
 # System Required: Debian, Ubuntu, Fedora, CentOS, Oracle Linux, Arch Linux
 # Version: 1.0.40_Final
 #
 # MIT License
 #
-# Copyright (c) 2021-2024 P3TERX <https://p3terx.com>
+# Copyright (c) 2021-2024 MangTian <https://github.com/MangTianYa/warp.sh>
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
